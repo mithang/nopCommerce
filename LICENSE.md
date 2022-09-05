@@ -11,4 +11,5 @@ However, in addition to the other notice obligations, (1) all copies of the Prog
 License page: https://www.nopcommerce.com/licensev3.aspx
 
 part 1
+part 2
 

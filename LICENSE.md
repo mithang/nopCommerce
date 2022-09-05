@@ -12,4 +12,5 @@ License page: https://www.nopcommerce.com/licensev3.aspx
 
 part 1
 part 2
+part 3
 

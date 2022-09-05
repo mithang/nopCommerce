@@ -1,4 +1,4 @@
-﻿nopCommerce Public License Version 3.0 ("NPL")
+nopCommerce Public License Version 3.0 ("NPL")
 
 
 nopCommerce open source edition is licensed under nopCommerce Public License. It's basically a GPLv3 License plus the "powered by nopCommerce" text requirement on every single page. The nopCommerce Public License Version 3.0 ("NPL") consists of the GPL3 License with the Additional Terms below. The original GPLv3 License can be found at: http://opensource.org/licenses/GPL-3.0
@@ -9,3 +9,9 @@ However, in addition to the other notice obligations, (1) all copies of the Prog
 
 
 License page: https://www.nopcommerce.com/licensev3.aspx
+
+part 1
+part 2
+part 3
+part 4
+

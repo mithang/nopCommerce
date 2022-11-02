@@ -1,0 +1,28 @@
+1. Cái đặt cypress xong, gõ lệnh để open cypress
+node_modules/.bin/cypress open
+
+Tiếp theo thiết lập project test từ dashboard, sau đó nó sẽ tạo một project để test nằm trong project của mình
+
+2. Nguyen tac test TDD, còn BDD thì khác
+a. Arrange: setup inital app state
+- visit a web page
+- query for an element
+b. Act: take an action
+- interact with that element
+c. Assert: make an assertion
+- make an assertion about page content
+
+3. Phien ban cu la integration, bien bang moi la folder e2e nơi viet cac testcase
+
+4. Set mat dinh node:
+nvm alias default 16.14.0
+nvm use default
+
+5. Tat ca test dieu bat nguon tu: https://www.chaijs.com/
+- should
+- expect
+- assert
+
+6. BDD:CucumberJS
+- Given, When, Then
+

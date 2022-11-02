@@ -2,7 +2,7 @@
 import TokenPO from "../support/PageObjects/TokenPO";
 import AxiosBase from "./../../AxioClient";
 
-describe("tokenPO GraphQL spec", () => {
+describe("TokenPO spec", () => {
 
   const tokenPO = new TokenPO();
 
